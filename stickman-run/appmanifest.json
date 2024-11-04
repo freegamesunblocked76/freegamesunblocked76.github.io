@@ -1,0 +1,11 @@
+{
+	"name": "Stickman Run",
+	"short_name": "Stickman Run",
+	"description": "Runner Game with one button control. ",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#3974fe",
+	"icons": [],
+	"screenshots": []
+}

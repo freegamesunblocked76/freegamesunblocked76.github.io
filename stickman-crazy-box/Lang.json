@@ -1,0 +1,800 @@
+{
+    "c2array": true,
+    "size": [
+        2,
+        131,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Онлайн"
+            ],
+            [
+                "Быстрая игра"
+            ],
+            [
+                "Турнир"
+            ],
+            [
+                "Магазин"
+            ],
+            [
+                "Стикмен Батл"
+            ],
+            [
+                "Пати Бокс"
+            ],
+            [
+                "Победитель"
+            ],
+            [
+                "Гол!"
+            ],
+            [
+                "Изменить"
+            ],
+            [
+                "Купить"
+            ],
+            [
+                "Выбрать"
+            ],
+            [
+                "Выбрано"
+            ],
+            [
+                "Цвет"
+            ],
+            [
+                "Глаза"
+            ],
+            [
+                "Шляпы"
+            ],
+            [
+                "Машина"
+            ],
+            [
+                "Танк"
+            ],
+            [
+                "Эффекты"
+            ],
+            [
+                "Применить"
+            ],
+            [
+                "ВПЕРЁД!"
+            ],
+            [
+                "Играть снова"
+            ],
+            [
+                "Меню"
+            ],
+            [
+                "Продолжить"
+            ],
+            [
+                "Выбор игры"
+            ],
+            [
+                "Награда"
+            ],
+            [
+                "1&Игрок"
+            ],
+            [
+                "2&Игрока"
+            ],
+            [
+                "3&Игрока"
+            ],
+            [
+                "4&Игрока"
+            ],
+            [
+                "Раскрась-ка"
+            ],
+            [
+                "Футбол"
+            ],
+            [
+                "Войны крюков"
+            ],
+            [
+                "Конфеты или жизнь"
+            ],
+            [
+                "Руби траву"
+            ],
+            [
+                "Остаться в живых"
+            ],
+            [
+                "Горячий динамит"
+            ],
+            [
+                "Боты"
+            ],
+            [
+                "Пусто"
+            ],
+            [
+                "Весёлый тир"
+            ],
+            [
+                "Вышибалы"
+            ],
+            [
+                "Караоке"
+            ],
+            [
+                "БЕЙ И БЕГИ"
+            ],
+            [
+                "БЕГИ, БЕГИ, БЕГИ!"
+            ],
+            [
+                "понг"
+            ],
+            [
+                "Гонки"
+            ],
+            [
+                "Танчики"
+            ],
+            [
+                "Небесная вечеринка"
+            ],
+            [
+                "Листопад"
+            ],
+            [
+                "СТОЙ!"
+            ],
+            [
+                "Светофор"
+            ],
+            [
+                "Войны взрывчатки"
+            ],
+            [
+                "Ночь призраков"
+            ],
+            [
+                "Настройки"
+            ],
+            [
+                "Звук"
+            ],
+            [
+                "Язык"
+            ],
+            [
+                "Количество игр"
+            ],
+            [
+                "Пропустить"
+            ],
+            [
+                "Подключение..."
+            ],
+            [
+                "Создать"
+            ],
+            [
+                "Обновить"
+            ],
+            [
+                "Комнат пока нет"
+            ],
+            [
+                " комната"
+            ],
+            [
+                "Ожидание"
+            ],
+            [
+                "Начать"
+            ],
+            [
+                "Игра"
+            ],
+            [
+                "Лобби"
+            ],
+            [
+                "Меню"
+            ],
+            [
+                "ADS"
+            ],
+            [
+                "Пожалуйста, отключите блокировку рекламы!"
+            ],
+            [
+                "Закрашивайте блоки!"
+            ],
+            [
+                "Управляйте своим персонажем при помощи"
+            ],
+            [
+                "Переводит блоки в очки"
+            ],
+            [
+                "Начисляет половину очков, не забирает блоки"
+            ],
+            [
+                "Выпускает ракеты вокруг"
+            ],
+            [
+                "Ускоряет персонажа"
+            ],
+            [
+                "Нажмите, чтобы пропустить"
+            ],
+            [
+                "Командная игра"
+            ],
+            [
+                "Забейте как можно больше голов в ворота противнику!"
+            ],
+            [
+                "Подбегите, чтобы пнуть мяч"
+            ],
+            [
+                "Притяните крюком противников как можно больше раз!"
+            ],
+            [
+                "Остановитесь, чтобы бросить крюк"
+            ],
+            [
+                "На выбывание!"
+            ],
+            [
+                "Собирайте конфеты"
+            ],
+            [
+                "Избегайте бомб!"
+            ],
+            [
+                "Рубите траву и получайте очки"
+            ],
+            [
+                "Даёт дополнительно единицу очков"
+            ],
+            [
+                "Вырубите всю траву!"
+            ],
+            [
+                "Выживание!"
+            ],
+            [
+                "С каждый разом всё больше бомб!"
+            ],
+            [
+                "Устойчивые блоки"
+            ],
+            [
+                "БОМБЫ!!!"
+            ],
+            [
+                "Передавайте динамит противнику, чтобы не взорваться!"
+            ],
+            [
+                "Остановитесь, чтобы выстрелить"
+            ],
+            [
+                "Стреляйте по мишеням"
+            ],
+            [
+                "Лучший стрелок!"
+            ],
+            [
+                "Столкните всех в воду!"
+            ],
+            [
+                "Подбегите, чтобы пнуть противника!"
+            ],
+            [
+                "Лучший певец!"
+            ],
+            [
+                "Отбирайте микрофон и пойте"
+            ],
+            [
+                "Чем дольше у вас микрофон - тем больше очков вы получите"
+            ],
+            [
+                "Остановитесь, чтобы ударить молотом"
+            ],
+            [
+                "За такую мишень вы получите единицу очков"
+            ],
+            [
+                "За такую мишень вы получите 5 очков"
+            ],
+            [
+                "Вы можете оглушать противников!"
+            ],
+            [
+                "Убегайте от этого огромного камня! И не оборачивайтесь!"
+            ],
+            [
+                "Избегайте ям и камней"
+            ],
+            [
+                "Нажмите, чтобы сменить направление своего персонажа"
+            ],
+            [
+                "Отбивайте мяч с помощью волшебной машины на рельсах"
+            ],
+            [
+                "Не дайте забить в свои ворота, у вас всего 5 жизней"
+            ],
+            [
+                "Самый быстрый гонщик!"
+            ],
+            [
+                "Преодолей 5 кругов на машине"
+            ],
+            [
+                "Уничтожайте врагов!"
+            ],
+            [
+                "Уменьшает танк"
+            ],
+            [
+                "Бегайте по блокам, ломая их! Но постарайтесь не упасть в пропасть, иначе вы ПРОИГРАЕТЕ!"
+            ],
+            [
+                "Уворачивайтесь от падающих листьев, иначе они вас придавят!"
+            ],
+            [
+                "Остановитесь, чтобы кинуть TNT, он взорвётся через 3 секунды"
+            ],
+            [
+                "Nitro взрывается при столкновении"
+            ],
+            [
+                "Избегайте призраков, иначе вы сами станете призраком!"
+            ],
+            [
+                "Нападайте на противников, если вы стали призраком!"
+            ],
+            [
+                "Идите, когда горит зелёный свет и кукла отвёрнута от вас"
+            ],
+            [
+                "Стойте, когда горит красный свет и кукла повёрнута к вам"
+            ],
+            [
+                "Чтобы открыть, сыграйте "
+            ],
+            [
+                " раз!"
+            ],
+            [
+                "Случайно"
+            ],
+            [
+                "ВЫ"
+            ],
+            [
+                "Онлайн режим скоро будет доступен!"
+            ],
+            [
+                "Игрок "
+            ],
+            [
+                "Выбор мини-игры"
+            ],
+            [
+                "Больше\nмини-игр"
+            ],
+            [
+                "Игроки"
+            ],
+            [
+                "или"
+            ]
+        ],
+        [
+            [
+                "Online"
+            ],
+            [
+                "Quick Game"
+            ],
+            [
+                "Tournament"
+            ],
+            [
+                "Shop"
+            ],
+            [
+                "Stickman Battle"
+            ],
+            [
+                "Party Box"
+            ],
+            [
+                "Winner"
+            ],
+            [
+                "Goal!"
+            ],
+            [
+                "Change"
+            ],
+            [
+                "Buy"
+            ],
+            [
+                "Pick"
+            ],
+            [
+                "Picked"
+            ],
+            [
+                "Color"
+            ],
+            [
+                "Eyes"
+            ],
+            [
+                "Hats"
+            ],
+            [
+                "Car"
+            ],
+            [
+                "Tank"
+            ],
+            [
+                "Effects"
+            ],
+            [
+                "Accept"
+            ],
+            [
+                "GO!"
+            ],
+            [
+                "Play again"
+            ],
+            [
+                "Menu"
+            ],
+            [
+                "Resume"
+            ],
+            [
+                "Game list"
+            ],
+            [
+                "Reward"
+            ],
+            [
+                "1&Player"
+            ],
+            [
+                "2&Players"
+            ],
+            [
+                "3&Players"
+            ],
+            [
+                "4&Players"
+            ],
+            [
+                "Draw It!"
+            ],
+            [
+                "Soccer"
+            ],
+            [
+                "Hook wars"
+            ],
+            [
+                "Candies or life"
+            ],
+            [
+                "Slice the grass"
+            ],
+            [
+                "Stay alive"
+            ],
+            [
+                "Hot dynamite"
+            ],
+            [
+                "Bots"
+            ],
+            [
+                "Empty"
+            ],
+            [
+                "Funny shooting"
+            ],
+            [
+                "Push out"
+            ],
+            [
+                "Karaoke"
+            ],
+            [
+                "Hit and Run"
+            ],
+            [
+                "RUN, RUN, RUN!"
+            ],
+            [
+                "PONG"
+            ],
+            [
+                "Racing"
+            ],
+            [
+                "Tanks"
+            ],
+            [
+                "Sky Party"
+            ],
+            [
+                "Leaf Fall"
+            ],
+            [
+                "STOP!"
+            ],
+            [
+                "Lights"
+            ],
+            [
+                "TNT Wars"
+            ],
+            [
+                "Ghost night"
+            ],
+            [
+                "Settings"
+            ],
+            [
+                "Sound"
+            ],
+            [
+                "Language"
+            ],
+            [
+                "Games"
+            ],
+            [
+                "Skip"
+            ],
+            [
+                "Connecting..."
+            ],
+            [
+                "Create"
+            ],
+            [
+                "Refresh"
+            ],
+            [
+                "No rooms yet"
+            ],
+            [
+                "'s Room"
+            ],
+            [
+                "Waiting"
+            ],
+            [
+                "Start"
+            ],
+            [
+                "Game"
+            ],
+            [
+                "Lobby"
+            ],
+            [
+                "Menu"
+            ],
+            [
+                "ADS"
+            ],
+            [
+                "Please turn off your AD blocker!"
+            ],
+            [
+                "Paint blocks!"
+            ],
+            [
+                "Control your character using"
+            ],
+            [
+                "Converts blocks into points"
+            ],
+            [
+                "Gives half points, does not take away blocks"
+            ],
+            [
+                "Fires rockets around"
+            ],
+            [
+                "Speeds up the character"
+            ],
+            [
+                "Tap to skip"
+            ],
+            [
+                "Team game"
+            ],
+            [
+                "Score as many goals as possible into your opponent's goal!"
+            ],
+            [
+                "Run up to kick the ball"
+            ],
+            [
+                "Hook your opponents as many times as possible!"
+            ],
+            [
+                "Stop to throw a hook"
+            ],
+            [
+                "Elimination!"
+            ],
+            [
+                "Collect candies"
+            ],
+            [
+                "Avoid the bombs!"
+            ],
+            [
+                "Chop grass and get points"
+            ],
+            [
+                "Gives an additional point"
+            ],
+            [
+                "Cut down all the grass!"
+            ],
+            [
+                "Survival!"
+            ],
+            [
+                "Every time there are more and more bombs!"
+            ],
+            [
+                "Stable blocks"
+            ],
+            [
+                "BOMBS!!!"
+            ],
+            [
+                "Pass the dynamite to your opponent to avoid exploding!"
+            ],
+            [
+                "Stop to shoot"
+            ],
+            [
+                "Shoot at targets"
+            ],
+            [
+                "Best shooter!"
+            ],
+            [
+                "Push everyone into the water!"
+            ],
+            [
+                "Run up to kick your opponent!"
+            ],
+            [
+                "Best singer!"
+            ],
+            [
+                "Take the microphone and sing"
+            ],
+            [
+                "The longer you have the microphone, the more points you get"
+            ],
+            [
+                "Stop to hit the hammer"
+            ],
+            [
+                "For such a target you will receive 1 point"
+            ],
+            [
+                "For such a target you will receive 5 points"
+            ],
+            [
+                "You can stun your opponents!"
+            ],
+            [
+                "Run away from this huge rock! And don't look back!"
+            ],
+            [
+                "Avoid pits and rocks"
+            ],
+            [
+                "Click to change your character's direction"
+            ],
+            [
+                "Hit the ball with a magic machine on rails"
+            ],
+            [
+                "Don't let them score into your own goal, you only have 5 lives"
+            ],
+            [
+                "The fastest racer!"
+            ],
+            [
+                "Complete 5 laps in your car"
+            ],
+            [
+                "Destroy your enemies!"
+            ],
+            [
+                "Shrinks the tank"
+            ],
+            [
+                "Run over the blocks, breaking them! But try not to fall into the abyss, otherwise you WILL LOSE!"
+            ],
+            [
+                "Dodge the falling leaves, otherwise they will crush you!"
+            ],
+            [
+                "Stop to throw TNT, it will explode after 3 seconds"
+            ],
+            [
+                "Nitro explodes on impact"
+            ],
+            [
+                "Avoid ghosts, otherwise you will become a ghost yourself!"
+            ],
+            [
+                "Attack your opponents if you become a ghost!"
+            ],
+            [
+                "Walk when the light is green and the doll is facing away from you"
+            ],
+            [
+                "Stand when the red light is on and the doll is facing you"
+            ],
+            [
+                "Play "
+            ],
+            [
+                " times to open!"
+            ],
+            [
+                "Random"
+            ],
+            [
+                "YOU"
+            ],
+            [
+                "Online mode is coming soon!"
+            ],
+            [
+                "Player "
+            ],
+            [
+                "Mini Game"
+            ],
+            [
+                "More\nmini games"
+            ],
+            [
+                "Players"
+            ],
+            [
+                "or"
+            ]
+        ]
+    ]
+}
